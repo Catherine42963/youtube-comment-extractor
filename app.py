@@ -5,7 +5,7 @@ import csv
 import threading
 import re
 
-API_KEY = "AIzaSyCDDYjGmWSSpJR4GhtWS7sAntVLmZ3Xez8"
+API_KEY = "your_API_KEY"
 youtube = build("youtube", "v3", developerKey=API_KEY)
 
 
